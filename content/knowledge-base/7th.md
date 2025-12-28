@@ -1,7 +1,7 @@
 ---
 featured_image: /images/7.jpg
 title: 7th
-draft: false
+draft: true
 ---
 ​
 
