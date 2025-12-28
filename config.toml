@@ -1,5 +1,5 @@
 title = "ВетСкоуп"
-baseURL = "https://example.zoo"
+baseURL = "https://noponyasked.github.io/vetscope/"
 languageCode = "ru"
 theme = 'ananke'
 resourceDir = "../resources"
