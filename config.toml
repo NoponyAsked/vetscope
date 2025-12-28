@@ -1,6 +1,6 @@
 title = "ВетСкоуп"
 baseURL = "https://example.zoo"
-languageCode = "ru_RU"
+languageCode = "ru"
 theme = 'ananke'
 resourceDir = "../resources"
 
